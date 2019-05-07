@@ -15,7 +15,7 @@ const options = {
     SimpleStorage: ["StorageSet"],
   },
   polls: {
-    accounts: 1500,
+    accounts: 30000,
   },
 };
 
